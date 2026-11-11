@@ -16,21 +16,20 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 ## 🖼️ Galeria do Aplicativo
 
 <p align="center">
-  <img src="226037_2.jpg" width="45%" alt="Tela Principal Duda TV e Rádio">
-  <img src="226038_2.jpg" width="45%" alt="Canais e Rádios Online">
+  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="45%" alt="Tela Principal Duda TV e Rádio">
+  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252641939.jpg" width="45%" alt="Canais e Rádios Online">
 </p>
 <p align="center">
-  <img src="226043_2.jpg" width="45%" alt="Interface Mobile Neon">
-  <img src="226044_2.jpg" width="45%" alt="Multicategorias Ao Vivo">
+  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252450902.jpg" width="45%" alt="Interface Mobile Neon">
 </p>
 
 ---
 
 ## ✨ Recursos Principais
-* **TV e Rádio Online Gratuitos:** Conteúdo diversificado com canais de TV abertos e as melhores rádios[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
-* **Interface Neon Moderna:** Design visual atraente, totalmente otimizado para smartphones e tablets[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
-* **Player Interativo:** Reprodução fluida para transmissões ao vivo[span_4](start_span)[span_4](end_span).
-* **Atualização Dinâmica:** Conteúdos gerenciados diretamente via Blogger, sem precisar atualizar o APK na marra[span_5](start_span)[span_5](end_span).
+* **TV e Rádio Online Gratuitos:** Conteúdo diversificado com canais de TV abertos e as melhores rádios.
+* **Interface Neon Moderna:** Design visual atraente, totalmente otimizado para smartphones e tablets.
+* **Player Interativo:** Reprodução fluida para transmissões ao vivo.
+* **Atualização Dinâmica:** Conteúdos gerenciados diretamente via Blogger, sem precisar atualizar o APK na marra.
 
 ---
 
