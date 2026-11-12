@@ -33,7 +33,7 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 ## 📥 Baixe Agora / Download
 Você pode baixar a versão estável mais recente do aplicativo diretamente por aqui:
 
-👉 **[Baixar Duda TV & Rádio v1.0 (APK)](#)** *(Insira aqui o link direto do APK ou da aba Releases do GitHub)*
+👉 **[Baixar Duda TV & Rádio v1.0 (APK)](#)** *(https://t.me/+3XGN_YdugfA3MGZh)*
 
 ---
 
