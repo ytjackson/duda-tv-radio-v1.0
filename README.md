@@ -15,13 +15,10 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 
 ## 🖼️ Galeria do Aplicativo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="45%" alt="Tela Principal Duda TV e Rádio">
-  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252641939.jpg" width="45%" alt="Canais e Rádios Online">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252450902.jpg" width="45%" alt="Interface Mobile Neon">
-</p>
+| Pequenas (Empilhadas) | Grande (Ao Lado) |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252641939.jpg" width="280"> |
+| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252450902.jpg" width="280"> | |
 
 ---
 
