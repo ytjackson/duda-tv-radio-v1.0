@@ -17,7 +17,7 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 
 | Logotipo Oficial | Tela do Aplicativo |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/refs/heads/main/Logo%20Neon%20Duda%20TV%20%26%20R%C3%A1dio.png" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="280"> |
+| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/refs/heads/main/Logo%20Neon%20Duda%20TV%20%26%20R%C3%A1dio.png" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/refs/heads/main/Duda%20TV%20%26%20R%C3%A1dio_%20IPTV%20Gr%C3%A1tis%20em%20Neon-2.png" width="280"> |
 
 ---
 
