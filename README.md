@@ -15,28 +15,28 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 
 ## 🖼️ Galeria do Aplicativo
 
-| Duda TV e Rádio (exemplos 1) 
+| Capa Oficial | Tela do Aplicativo |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252641939.jpg" width="280"> |
+| <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/refs/heads/main/Duda%20TV%20%26%20R%C3%A1dio_%20IPTV%20Gr%C3%A1tis%20em%20Neon-2.png" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="280"> |
 
 ---
 
 ## ✨ Recursos Principais
-* **TV e Rádio Online Gratuitos:** Conteúdo diversificado com canais de TV abertos e as melhores rádios.
-* **Interface Neon Moderna:** Design visual atraente, totalmente otimizado para smartphones e tablets.
-* **Player Interativo:** Reprodução fluida para transmissões ao vivo.
-* **Atualização Dinâmica:** Conteúdos gerenciados diretamente via Blogger, sem precisar atualizar o APK na marra.
+* **📺 TV e Rádio Online Gratuitos:** Conteúdo diversificado com canais de TV abertos e as melhores rádios.
+* **🎨 Interface Neon Moderna:** Design visual atraente, totalmente otimizado para smartphones e tablets.
+* **🎧 Player Interativo:** Reprodução fluida para transmissões ao vivo com visual futurista.
+* **⚡ Atualização Dinâmica:** Conteúdos gerenciados diretamente via Blogger, sem precisar atualizar o APK constantemente.
 
 ---
 
 ## 📥 Baixe Agora / Download
 Você pode baixar a versão estável mais recente do aplicativo diretamente por aqui:
 
-👉 **[Baixar Duda TV & Rádio v1.0 (APK)](#)** *(https://t.me/+3XGN_YdugfA3MGZh)*
+👉 **[Baixar Duda TV & Rádio v1.0 (APK)](https://t.me/+3XGN_YdugfA3MGZh)**
 
 ---
 
 ### 📱 Como Instalar (Fora da Play Store)
 1. Baixe o arquivo `.apk` através do link acima.
-2. Ao abrir o arquivo no seu celular, caso apareça um aviso de segurança, permita a **instalação de fontes desconhecidas** nas configurações do seu navegador ou gerenciador de arquivos.
+2. Ao abrir o arquivo no seu telemóvel, caso apareça um aviso de segurança, permita a **instalação de fontes desconhecidas** nas configurações do seu navegador ou gerenciador de arquivos.
 3. Conclua a instalação e aproveite todo o conteúdo gratuito!
