@@ -19,7 +19,6 @@ Chegou o **Duda TV** com nova identidade visual neon, player otimizado para tran
 | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794253354495.jpg" width="280"> | <img src="https://raw.githubusercontent.com/ytjackson/duda-tv-radio-v1.0/main/1794252641939.jpg" width="280"> |
 
-
 ---
 
 ## ✨ Recursos Principais
